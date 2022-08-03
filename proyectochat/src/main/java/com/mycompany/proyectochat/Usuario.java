@@ -87,5 +87,6 @@ public class Usuario implements  ManejarInformacion
     public String toString() {
         return "Usuario{" + "id=" + id + ", nombre=" + nombre + ", contrase\u00f1a=" + contraseña + '}';
     }
-    
+ 
+    public void hola(){}
 }
